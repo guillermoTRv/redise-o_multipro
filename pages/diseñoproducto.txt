@@ -1,0 +1,7 @@
+#Solo se que el cliente genera tickets, ve todos los tickets que ah generado, ver tickets que no han sido atendidos, posiblemente eliiminar tickets, enviar el ticket bajo una categoria, generar el pinche reporte de excel.
+
+#Pensaba en UI en un elemento que mostrara si su ticket a sido atendidos
+
+#Creo que habra una parte como sistema de comentarios
+
+#En el sistema admin: pues ver todos los ticket, ponerle los antendidos, contestar los ticket y ammm creo ya no se me ocurre algo mas, organizar por los clientes, organizar por las categorias.
